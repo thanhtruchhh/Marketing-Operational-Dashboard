@@ -43,10 +43,13 @@ The dataset is in Vietnamese. You can download the original dataset [here](https
 
 ## Output
 
+<img width="654" alt="Marketing Operational Dashboard Capture" src="https://github.com/thanhtruchhh/Marketing-Operational-Dashboard/assets/145547282/a6c0542b-b055-4bf2-bad2-4d9878009b17">
+
 The project comprises a Google Sheet with multiple sheets. The main component is the "Dashboard" sheet, featuring:
 
 - Filters: Location, Start date, End date.
 - Users can input a Target Cost per Mess. If the Average Cost per Mess exceeds the target, the dashboard issues a warning.
+   <img width="827" alt="Average Cost per Mess" src="https://github.com/thanhtruchhh/Marketing-Operational-Dashboard/assets/145547282/db4a31b0-35f0-418d-9561-a70225daa759">
 - Scorecards displaying key KPIs: Total spend, Total mess, Avg cost per mess, Total mess of messages campaigns, Total mess of engagement campaigns.
 - Three charts illustrating Total spend, Total mess, and Cost per mess over time.
 - Three tables showcasing:
@@ -55,6 +58,7 @@ The project comprises a Google Sheet with multiple sheets. The main component is
     - Top 5 spent campaigns.
 
 To ensure accessibility for all end users, including those with color blindness, alerts in the dashboard are presented using a combination of background color changes and symbols:
-- ✓ + Green background: Good Performance
-- ⚠ + Light red background: Needs Improvement
-- ⨉ + Dark red background: No Effectiveness
+- `✓` + Green background: Good Performance
+- `⚠` + Light red background: Needs Improvement
+- `⨉` + Dark red background: No Effectiveness
+  <img width="679" alt="Warnings" src="https://github.com/thanhtruchhh/Marketing-Operational-Dashboard/assets/145547282/a5dc30ee-c5a9-4204-8ee8-da225186bb57">
