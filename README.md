@@ -10,7 +10,7 @@ In particular, our end users are keenly focused on the key metric of "Cost per M
 
 This project was built on Google Sheet. You can access the result file directly [here](https://docs.google.com/spreadsheets/d/1H5GB4YMnA3J-RNzYCvU19ZFCKR4yG9n6mFG8Ow3Z9Xw/edit?usp=sharing).
 
-## 2. Data Dictionary
+## Data Dictionary
 
 | Column              | Description                                           |
 |---------------------|-------------------------------------------------------|
